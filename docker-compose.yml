@@ -1,0 +1,14 @@
+services:
+  app1:
+    image: mi-app-de-prueba:v2.0
+
+  app2:
+    image: mi-app-de-prueba:latest
+
+
+  lb:
+    image: nginx:latest
+    ports:
+      - 5000:80
+    volumes:
+      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf

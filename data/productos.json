@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1,
+  "nombre": "Heladera",
+  "precio": 1500000,
+  "categorias": "electrodomestico",
+  "stock": 15
+ },
+ {
+  "id": 2,
+  "nombre": "Pelota de Fitbol",
+  "precio": 25000,
+  "categorias": "deportivo",
+  "stock": 12
+ },
+ {   
+  "id": 3,
+  "nombre": "Notebook",
+  "precio": 850000,
+  "categorias": "tecnología",
+  "stock": 8
+ },
+ {
+  "id": 4,
+  "nombre": "Zapatillas Running",
+  "precio": 60000,
+  "categorias": "deportivo",
+  "stock": 20
+ },
+ {
+  "id": 5,
+  "nombre": "Smart TV",
+  "precio": 1200000,
+  "categorias": "electrodomestico",
+  "stock": 10
+ },
+ {
+  "id": 6,
+  "nombre": "Auriculares Bluetooth",
+  "precio": 80000,
+  "categorias": "tecnología",
+  "stock": 25
+ },
+ {
+  "id": 7,
+  "nombre": "Cafetera Eléctrica",
+  "precio": 300000,
+  "categorias": "electrodomestico",
+  "stock": 18
+ },
+ {
+  "id": 8,
+  "nombre": "Bicicleta de Montaña",
+  "precio": 500000,
+  "categorias": "deportivo",
+  "stock": 5
+ },
+ {
+  "id": 9,
+  "nombre": "Tablet",
+  "precio": 400000,
+  "categorias": "tecnología",
+  "stock": 12
+ },
+ {
+  "id": 10,
+  "nombre": "Microondas",
+  "precio": 200000,
+  "categorias": "electrodomestico",
+  "stock": 20
+ }
+]
